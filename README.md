@@ -1,4 +1,4 @@
-# Pandora Downloader Chrome Extension
+# Pandownloader Chrome Extension
 -------------------------------------
 This chrome extension allows you to download a Youtube version of the currently playing song on Pandora. I got annoyed with how long it took to copy the track info, find a youtube track and then go to a converter site so I automated it!
 
